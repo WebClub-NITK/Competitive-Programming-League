@@ -7,7 +7,7 @@
 
 **Speakers**: 
 
-Mohit Reddy, Convener Webclub. <br>
+Mohit Reddy, Convener Web Club. <br>
 Contact: mohitreddy1996@gmail.com.
 
 Ashwin Joisa, Second Year CS. <br>
