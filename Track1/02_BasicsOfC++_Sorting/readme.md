@@ -1,4 +1,4 @@
-﻿# Basics of C++ Part II
+# Basics of C++ Part II
 ## Sorting
 **Date**: 09 October 2018
 **Venue**: CSE Department Seminar Hall
