@@ -1,3 +1,10 @@
-# Topics Covered:
-- Getting started with C++
-- Basics of C++ part-II, Sorting
+# Track 1 - Easy
+
+Topics:
+
+- Introduction to C/C++/STL
+- Sorting and Searching
+- Basic Number Theory
+- Greedy
+- Basic Dynamic Programming
+- Matrix and Modular Exponentiation
