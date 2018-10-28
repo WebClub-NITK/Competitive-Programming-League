@@ -3,4 +3,4 @@ Theory
 
 Problems
 - https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/
-- S[All other problems can be found here](https://codeforces.com/blog/entry/22616)
+- [All other problems can be found here](https://codeforces.com/blog/entry/22616)
