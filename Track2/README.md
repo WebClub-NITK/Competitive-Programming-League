@@ -2,3 +2,4 @@
 - Introductory Session
 - Graphs and Trees
 - String Hashing
+- Segment Trees
